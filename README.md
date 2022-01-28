@@ -284,6 +284,12 @@ link of project
 Insert gif or link to demo
 
 
+
+https://user-images.githubusercontent.com/97509895/151502873-e2c977e1-5408-4779-945f-e16b1346a85f.mp4
+
+
+
+
 ## Running Window Detection Model
 source '0' for webcam
 
@@ -292,7 +298,7 @@ source '0' for webcam
 ```
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://github.com/f-ate/Window-Detection/blob/main/IMG_20220125_115121.jpg)
 
 
 ## Advantages
